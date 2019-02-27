@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+
+
+#background{
+    background-image: url(../img/egeskovslotbackgroundimg.jpg);
+    height: 100vh;
+    background-size: cover; 
+}
