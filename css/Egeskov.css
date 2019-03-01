@@ -20,11 +20,23 @@ nav a{
     float:left;
     color: white;
     padding: 3px 100px;
-    margin-left: 40px;
+    margin-left: 70px;
+    margin: 8px;
+}
+
+nav a:hover{
+    background-color: black;
+}
+
+nav img{
     
-    
+    margin: -5px;
+    padding: 8px;
+    width: 35px;
     
 }
+
+
 
  /*background */
 .background{
