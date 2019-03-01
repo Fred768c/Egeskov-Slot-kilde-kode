@@ -7,15 +7,21 @@
 /*navigationsbar*/
 
 nav{
-    float: right;
+   
+    height: 40px;
+    width: 100%;
+    margin-right: 530px;
     overflow: hidden;
     background-color: #133a22;
-    width: 80%;
-
+   
 }
 
 nav a{
+    float:left;
     color: white;
+    padding: 3px 100px;
+    margin-left: 40px;
+    
     
     
 }
@@ -30,19 +36,20 @@ nav a{
 }
 .logo{
     float: left;
+    padding: 0px 50px;
     
 }
 
-h1{
+h1{ /*Egeskov overskrift*/
    text-shadow: 1px 0 black, 0 1px black, 1px 0 black, 0 1px black;
     text-align: center;
     padding: 60px;
     font-size: 100px;
-    font-family: initial;
-    
-    
-    
+    font-family: initial; 
+    margin-right: 250px;
 }
+
+
 
 
 
