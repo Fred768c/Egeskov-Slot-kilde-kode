@@ -148,6 +148,17 @@ h1{
 }
 
 
+/*skoleudflugt side*/
+
+.infoboks{
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    
+    
+}
+
+
 
 
 
@@ -163,6 +174,8 @@ footer p{
     text-align: center;
     padding: 15px;
     float: left;
+    border: 
+
 }
 
 
